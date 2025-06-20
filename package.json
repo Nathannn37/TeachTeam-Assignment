@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mysql2": "^3.14.1",
+    "recharts": "^2.15.2",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.24"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
