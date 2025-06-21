@@ -1,4 +1,12 @@
-# s3932146-s4090456-a2
+# Disclaimer
+
+This project was submitted as part of Full Stack Development at RMIT. Do not distribute and do not copy without permission.
+
+# Instructions
+
+Run frontend folder and backend folder on two separate terminals using "npm run dev"
+
+Go to "http://localhost:3000/" in your browswer
 
 name: "Alicia Huang"
 email: "Alicia@email.com"
